@@ -1,0 +1,59 @@
+.mayor{
+	width: 400px;
+	margin: 20px auto;
+	padding: 30px;
+	border: 1px solid gray;
+}
+
+.img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin:auto;
+}
+
+p, h1{
+	text-align: center;
+}
+
+.html, .css, .js{
+	margin:10px;
+	width: 300px;
+	background-color: gray;
+	padding: 10px;
+	color: white;
+}
+
+.css{
+	width: 180px;
+}
+
+.js{
+	width: 100px;
+}
+
+.divg{
+	overflow: hidden;
+}
+
+.p{
+	float: left;
+	margin: 10px;
+	width: 110px;
+	height: 70px;
+}
+
+.uno{
+	background-image: url("../img/p5.jpg");
+	background-size: 110px 70px;
+}
+
+.dos{
+	background-image: url("../img/p6.jpg");
+	background-size: 110px 70px;
+}
+
+.tres{
+	background-image: url("../img/p8.jpg");
+	background-size: 110px 70px;
+}
